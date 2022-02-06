@@ -94,7 +94,7 @@ int main()
 		{
 			case 1:
 				cout << endl;
-				cout << "Enter value to insert: ";
+				cout << "Place a value here please: ";
 				cin >> value;
 				cout << endl << "Inserting..." << endl;
 				Table.Insert(value);
